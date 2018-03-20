@@ -6,18 +6,18 @@ Language : Python
 Date : November 2015   
 Methodology : Comparison of Machine Learning Supervised_Classification algorithms.
 
-- **ParallelizedPCA** : Parallel GPU Implementation of Iterative PCA Algorithm
-Language: pyCUDA
-Date: january 2017
-Team: Gauthier Schweitzer
-Methodology:  Gram-Schmidt orthogonalization algorithm proposed by Andrecut (2008)
+- **ParallelizedPCA** : Parallel GPU Implementation of Iterative PCA Algorithm  
+Language: pyCUDA 	 
+Date: january 2017	  
+Team: Gauthier Schweitzer  
+Methodology:  Gram-Schmidt orthogonalization algorithm proposed by Andrecut (2008)   
 
 
-- **TopicModelingLDA** : Discussion and Implementation of Topic modeling in text analysis by Latent Dirichlet Allocation 
-Language: Python
-Date: January 2017
-Team: Chloé Baraille, Othmane Sebbouh
-Methodology: collapsed variational bayesian inference algorithm for Latent Dirichlet Allocation (Teh, Newman, Welling, 2006)
+- **TopicModelingLDA** : Discussion and Implementation of Topic modeling in text analysis by Latent Dirichlet Allocation   
+Language: Python  
+Date: January 2017  
+Team: Chloé Baraille, Othmane Sebbouh  
+Methodology: collapsed variational bayesian inference algorithm for Latent Dirichlet Allocation (Teh, Newman, Welling, 2006)  
 
 - **NetworkLasso** : Predicting prices in the Housing Market of Sacramento     
 Language : Python   
@@ -27,10 +27,10 @@ Methodology : Network Lasso Optimization
 
 ## Econometrics
 
-- **SemiParametricTilting**: Resolving Semi Parametric Data Combination Issues. 
-Software: Python
-Date: January 2017
-Team: Leïla Fardeau, Loïc Macherel
+- **SemiParametricTilting**: Resolving Semi Parametric Data Combination Issues.   
+Software: Python  
+Date: January 2017  
+Team: Leïla Fardeau, Loïc Macherel  
 Methodology: Auxiliary-to-Study Tilting (Graham et al. 2016)
 
 
